@@ -1,0 +1,10 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.2.1"
+  }
+}
