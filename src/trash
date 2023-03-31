@@ -1,0 +1,35 @@
+// forwardIMG.onload = () => {
+//   context.drawImage(background, 0, 0);
+
+//   // context.drawImage(
+//   //   forwardIMG,
+//   //   0,
+//   //   0,
+//   //   characterWidth,
+//   //   characterHeight,
+//   //   0,
+//   //   0,
+//   //   character.width / 8,
+//   //   character.height / 10
+//   // );
+
+//   context.save();
+
+//   context.scale(-1, 1);
+//   // context.translate(-canvas.width, 0);
+//   context.translate(-canvas.width, 0);
+
+//   context.drawImage(
+//     forwardIMG,
+//     0,
+//     0,
+//     characterWidth,
+//     characterHeight,
+//     0,
+//     0,
+//     character.width / 8,
+//     character.height / 10
+//   );
+
+//   context.restore();
+// };
